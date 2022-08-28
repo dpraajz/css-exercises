@@ -1,0 +1,20 @@
+.class1{
+    background-color: pink;
+    color: black;
+}
+
+.class3{
+    font-size: 18px;
+}
+
+#id2{
+    color: blue;
+    font-size: 36px;
+}
+
+#id4{
+    background-color: lightgreen;
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
+}
